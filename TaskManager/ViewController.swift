@@ -67,9 +67,6 @@ class ViewController: UIViewController, UITableViewDataSource{
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        
     }
-    
-    
 }
 
