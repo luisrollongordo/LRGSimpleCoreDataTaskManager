@@ -1,5 +1,4 @@
 # LRGSimpleCoreDataTaskManager
-Task Manager with Core Data iOS App
 
 Aplicación Demo para Tutorial sobre Core Data.
 
